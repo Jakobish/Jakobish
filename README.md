@@ -1,23 +1,21 @@
-# Kobi Shahar  
+# Kobi Shahar
 **Principal Engineer | AI & Automation Architect | Enterprise Modernization Expert**  
-Tel Aviv, Israel · ✉️ kobi@virtualbox.co.il · 🌐 [LinkedIn](#) · [GitHub](#)
+Tel Aviv, Israel · kobi@virtualbox.co.il · LinkedIn · GitHub
 
 ---
 
 ## About Me
 Hi, I’m **Kobi Shahar** — a software and electrical engineer, entrepreneur, and lifelong builder.  
 For over two decades I’ve been designing systems that make technology simpler, faster, and smarter.  
-
 I started by building **LiveDNS**, one of Israel’s first automated hosting platforms, long before “DevOps” was a word.  
 Later I founded **VirtualBox Technologies**, helping enterprises modernize infrastructure, optimize costs, and bring automation where it matters most.  
 
 In recent years, my focus shifted toward **AI systems architecture** — integrating **LLMs, agentic RAG frameworks, and MCP-based reasoning pipelines** that connect knowledge and automation in real time.  
-I see AI not as a replacement for people, but as a **force multiplier** — making talented teams even better.
+I see AI not as a replacement for people, but as a *force multiplier* — making talented teams even better.
 
 I thrive where technology meets people: mentoring, simplifying, and creating elegant solutions that last.  
-Not chasing hype — just building things that actually work.
-
-When I’m not coding or optimizing workflows, you’ll find me **designing surfboards, sketching, or exploring AI-driven creativity tools.**  
+Not chasing hype — just building things that actually work.  
+When I’m not coding or optimizing workflows, you’ll find me designing surfboards, sketching, or exploring AI-driven creativity tools.  
 Always learning. Always improving.
 
 ---
@@ -39,13 +37,11 @@ Always learning. Always improving.
 
 ---
 
-## 🎓 Education
+## Education
 - **B.Sc. Electrical & Electronics Engineering** (2000–2004)  
 - **Diploma in Software Engineering** (1998–2000)  
 
 ---
 
-## 💡 Motto
-> “I don’t just build systems — I build systems that build smarter people.”
-
----
+## Motto
+“I don’t just build systems — I build systems that build smarter people.”
