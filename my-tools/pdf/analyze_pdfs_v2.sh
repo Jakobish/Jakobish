@@ -16,7 +16,7 @@
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 # --- Configuration ---
-OUTPUT_BASE_DIR="/Users/Kobi/Downloads" # Base directory for output folders
+OUTPUT_BASE_DIR="./" # Base directory for output folders
 RUN_OCR=true                   # Enable slow OCR operation?
 RUN_PDFCRACK=false              # Enable slow pdfcrack check?
 RUN_QDF_GREP=true               # Enable qpdf unpack and deep grep?

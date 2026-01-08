@@ -15,8 +15,8 @@
 # Required tools:
 #   - mutool, qpdf, exiftool, xxd, tesseract, pdfimages, pandoc (for PDF report generation)
 #
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: Kobi Shahar
+# Date: 2024
 
 # Default configuration
 MAIN_OUTPUT_DIR="PDF_Organizic_Output"
