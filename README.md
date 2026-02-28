@@ -1,6 +1,5 @@
 # Hi, I'm Kobi Shahar
 
-## My Focus Today: Agentic AI Automation
 
 ## 🛠 What I'm working on
 
