@@ -2,13 +2,14 @@
 
 Senior engineer building systems that connect human intent to real execution through orchestrated agents, tools, memory, and automation. I focus on agentic workflows built with DAGs, graphs, and dynamic sub-workflows that help AI agents and technology teams work together effectively.
 My background spans backend engineering, databases, infrastructure, and production operations, helping me build AI systems that are practical, controllable, and maintainable in real environments.
-Core Capabilities
+##Core Capabilities
+
 •	Agentic workflows, DAGs, graphs, and sub-workflow generation
 •	LLM applications, RAG, GraphRAG, and knowledge systems
 •	Backend, databases, infrastructure, and automation in production environments
 •	Performance, reliability, and maintainability in complex systems
 •	Rapid learning and evaluation of emerging AI tools and workflow architectures
-Technical Expertise
+## Technical Expertise
 AI Systems, Agent Orchestration & Execution Workflows
 LLMs, RAG, GraphRAG, semantic search, vector retrieval, DAG-based workflows, graph orchestration, and production-oriented agent systems.
 OpenAI API, Agents SDK, LangChain, LangGraph, CrewAI, Flowise, MCP-related concepts, and AI-assisted development tools.
